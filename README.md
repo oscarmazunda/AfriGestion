@@ -1,0 +1,2 @@
+# AfriGestion
+Mon logiciel comptable
